@@ -1,0 +1,123 @@
+﻿[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; For CB
+
+;List Start
+
+;Google
+*.google.*
+*.googleapis.com
+*.domains.google
+*.doubleclick.net
+*.youtube.com
+*.gmail.com
+*.blogspot.com
+*.blogger.com
+*.chromium.org
+*.ampproject.net
+*.ampproject.org
+*.angularjs.org
+*.appspot.com
+*.ggpht.com
+*.golang.org
+*.goo.gl
+*.gstatic.com
+*.ggpht.com
+*.youtu.be
+*.ytimg.com
+*.googleusercontent.com
+*.googlevideo.com
+*.feedburner.com
+*.youtube-nocookie.com
+;Google End
+
+;H
+*.jporn.link
+*.dmm.co.jp
+*.javlibrary.com
+*.porn.com
+*.pornhub.com
+*.t66y.com
+*.fc2.com
+*.hkbbcc.net
+*.jinniumovie.be
+*.picacomic.com
+*.tumblr.com
+*.yimg.com
+*.lu6vip.info
+*.netcdn.space
+*.avmo.pw
+*.avxo.pw
+*.avso.pw
+;H End
+
+;FaceBook
+*.facebook.com
+*.facebook.net
+*.instagram.com
+*.cdninstagram.com
+*.fb.me
+*.fbcdn.net
+;FaceBook End
+
+;Twitter
+*.twitter.com
+*.t.co
+*.twimg.com
+*.bit.ly
+*.crashlytics.com
+;Twitter End
+
+;Messenger
+*.telegram.org
+*.t.me
+;Messenger End
+
+;Cloud
+*.amazonaws.com
+*.dropbox.com
+*.dropboxstatic.com
+*.dropboxusercontent.com
+*.flickr.com
+*.pinterest.com
+;Cloud End
+
+;Git
+*.gist.github.com
+*.githubusercontent.com
+*.gitbook.com
+*.gitbooks.io
+;Git End
+
+;Info
+*.medium.com
+*.wordpress.com
+*.wp.com
+*.wikipedia.org
+;Info End
+
+;BT
+*.thepiratebay.org
+*.btso.pw
+*.btdb.in
+;BT End
+
+;Video
+*.vimeo.com
+;Video End
+
+;Tunnel
+*.shadowsocks.org
+*.eurakavpt.com
+;Tunnel End
+
+;Dev
+*.xda-developers.com
+*.who.is
+;Dev End
+
+;BBS
+*.mobile01.com
+;BBS End
+
+;List End
