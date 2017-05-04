@@ -15,6 +15,7 @@ rules = [
 [RULESET.proxy]
 name = "Rules"
 rules = [
+  "DOMAIN-SUFFIX, wikipedia.org, PROXY",
   "DOMAIN-SUFFIX, domains.google, PROXY",
   "DOMAIN-SUFFIX, yimg.com, PROXY",
   "DOMAIN-SUFFIX, cdninstagram.com, PROXY",
